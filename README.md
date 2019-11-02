@@ -1,7 +1,7 @@
 # Assignment 2019
 ## Fundamentals of Data Analysis
 
-  This document contains the Assessment project for the Fundamentals of Data Analysis module in GMIT [2] for the year 2019. The assesment concerns well known tips [5] data set which I will explain and analyse through Python [1] packages seaborn [4] and jupyter[3]. In the repository, you can find the Jupyter notebook where the tips data set has been described. The notebook itself consists of three parts. In part I the tips data set is described through descriptive statistics and plots. Part II it is analysed whether there is a relationship between the total bill and tip amound. Finnaly, part III contains the further analysis of the relationship between the variables in the dataset. 
+  This document contains the Assessment project for the Fundamentals of Data Analysis module in GMIT [2] for the year 2019. The assesment concerns well known tips [5] data set which I will explain and analyse through Python [1] packages seaborn [4] and jupyter[3]. In the repository, you can find the Jupyter notebook where the tips data set has been described. The notebook itself consists of three parts. In part I the tips data set is described through descriptive statistics and plots. Part II it is analysed whether there is a relationship between the total bill and tip amount. Finnaly, part III contains the further analysis of the relationship between the variables in the dataset. 
   
   
 ### References
