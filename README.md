@@ -11,7 +11,7 @@ https://www.python.org/
 https://www.gmit.ie/  
 [3] Project Jupyter. Project Jupyter.  
 https://jupyter.org/  
-[4] Michael Waskom. seaborn.  
+[4] Michael Waskom. Seaborn.  
 https://seaborn.pydata.org/  
 [5] Michael Waskom. Tips data set.  
 https://github.com/mwaskom/seaborn-data/blob/master/tips.csv  
@@ -21,4 +21,9 @@ https://towardsdatascience.com/analyze-the-data-through-data-visualization-using
 https://realpython.com/linear-regression-in-python/#implementing-linear-regression-in-python  
 [8] Towards data science. A beginner's guide to Linear Regression in Python with Scikit-Learn.  
 https://towardsdatascience.com/a-beginners-guide-to-linear-regression-in-python-with-scikit-learn-83a8f7ae2b4f  
-[9] 
+[9] Official seaborn tutorial. Seaborn.  
+https://seaborn.pydata.org/tutorial.html#tutorial  
+[10] Introduction to Linear Regression using Python by Kevin Markham. Jupyter notebook.  
+https://nbviewer.jupyter.org/github/justmarkham/DAT4/blob/master/notebooks/08_linear_regression.ipynb  
+[11] 
+
