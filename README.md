@@ -25,5 +25,5 @@ https://towardsdatascience.com/a-beginners-guide-to-linear-regression-in-python-
 https://seaborn.pydata.org/tutorial.html#tutorial  
 [10] Introduction to Linear Regression using Python by Kevin Markham. Jupyter notebook.  
 https://nbviewer.jupyter.org/github/justmarkham/DAT4/blob/master/notebooks/08_linear_regression.ipynb  
-[11] 
-
+[11] pandas: powerful Python data analysis toolkit  
+https://pandas.pydata.org/pandas-docs/stable/  
